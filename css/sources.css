@@ -1,0 +1,49 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.form{
+    width: 30pc;
+    background: whitesmoke;
+    height: 100vh;
+    padding: 20px;
+    
+}
+
+.source{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.source span{
+    font-size: 23px;
+}
+
+.source input{
+    height: 30px;
+    font-size: 20px;
+}
+
+.source select{
+    height: 39px;
+    font-size: 20px;
+}
+
+#btn{
+    height: 30px;
+    width: 80px;
+    float: right;
+    margin-top: 40px;
+    border: 2px black solid;
+    border-radius: 5px;
+}
+
+#logout{
+    height: 30px;
+    width: 80px;
+    margin-top: 40px;
+    border: 2px black solid;
+    border-radius: 5px;
+}

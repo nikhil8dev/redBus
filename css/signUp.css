@@ -1,0 +1,62 @@
+
+.signform{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.form{
+    
+    background: whitesmoke;
+    padding: 20px;
+    height: 100vh;
+}
+
+
+
+
+.signup{
+    margin-left: 4%;
+    margin-top: 3pc;
+    width: 30pc;
+    height: 5%;
+   
+}
+
+.signup span{
+    font-size: 20px;
+}
+
+.signup input{
+    height: 100%;
+    width: 90%; 
+    font-size: 1pc;
+
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+}
+
+#btn{
+    width: 100px;
+    height: 30px;
+    float: right;
+    margin-top: 70px;
+    margin-right: 30px;
+    border: 2px solid black;
+     border-radius: 5px;
+     padding-bottom: 30px;
+    
+}
+
+#logIn{
+    width: 100px;
+    height: 40px;
+    margin-top: 70px;
+    margin-left: 20px;
+    border: 2px solid black;
+     border-radius: 5px;
+    
+}

@@ -1,0 +1,50 @@
+.container{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+.form{
+    padding: 20px;
+    height: 70vh;
+    width: 30%;
+    background: whitesmoke;
+    align-self: center;
+}
+
+.login{
+    display: flex;
+    flex-direction: column;
+}
+
+.login span{
+    font-size: 20px;
+}
+
+.login input{
+    height: 1.5pc;
+    font-size: 1pc;
+}
+
+#btn{
+   margin-top: 10px;
+   height: 2pc;
+   width: 5pc;
+   border: 2px solid  black;
+   border-radius: 5px;
+}
+
+#logout{
+    margin-top: 10px;
+    height: 2pc;
+    width: 5pc;
+    border: 2px solid  black;
+    border-radius: 5px;
+}
+
+.button{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
